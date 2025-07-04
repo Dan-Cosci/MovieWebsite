@@ -39,12 +39,14 @@ This project was created while following a tutorial by [Tech with Tim on YouTube
 
 ## 📁 Project Structure
 
+```bash
 src/
 ├── assets/ # Static files like images, logos, icons
 ├── components/ # Reusable UI components (e.g. MovieCard)
 ├── css/ # CSS stylesheets
 ├── pages/ # Page-level components (e.g. Home.jsx)
 └── services/ # API logic (e.g. mostPopular, searchMovie)
+```
 
 ---
 
